@@ -1,0 +1,8 @@
+{
+  "name": "routing-simple-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "bcd21cc3"
+}
